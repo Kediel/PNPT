@@ -16,7 +16,7 @@ ifconfig or ipconfig
 ## What is a MAC Address?
 
 ## TCP, UDP, and the Three-Way Handshake
-SYN > SYN ACK > ACK
+SYN > SYN, ACK > ACK
 
 
 ## Common Ports and Protocols
